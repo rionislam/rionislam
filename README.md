@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rionislam.
 - 👀 I’m interested in web designing and developing.
 - 🌱 I’m currently learning php and python.
-- 💞️ I’m looking to collaborate on web developing.
 - 📫 How to reach me rionislam.mazidul@gamil.com
 
 <!---
