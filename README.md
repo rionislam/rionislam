@@ -4,7 +4,7 @@
 
 I am a full stack web developer. Use pure HTML, CSS and JS in the frontend. Sometimes use BOOTSTRAP and JQUERY libraries. Love to work with Node JS in the backend. But also expert in PHP.
 
-Skills: NODE JS / JQUERY / JS / HTML / CSS
+Skills: NODE JS / PHP / JS / CSS / HTML
 
 - 📫 How to reach me: rionislam.mazidul@gmail.com 
 
