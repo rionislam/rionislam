@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mazidul Islam Rion
+### Hi there 👋, my name is Mazedul Islam Rion
 #### I am a Web Developer
 ![I am a Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/193464207_910357382875461_8629543807227067850_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeGNr6PacuCps2AZE6KnWmGjgph3bm2OBEOCmHdubY4EQ4kGumk98Mug5zNx0jBIN1ZmaYAu_8ZYJso_bqHPt_qy&_nc_ohc=MRO2jRB1bN4AX9VBJiH&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-d5hEvSMGG_8_TgLENaDwssFFXQpbSvK8j9pivMqgIPA&oe=620DE7C8)
 
