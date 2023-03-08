@@ -10,9 +10,7 @@ Skills: C / NODE JS / PHP / JS / CSS / HTML
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='Rion Islam linkedin' height='40'>](https://www.linkedin.com/in/mazedul-islam-rion-29716819a/)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rionislam.m)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rionislam.m/)
 
 
