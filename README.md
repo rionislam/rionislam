@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mazedul Islam Rion
 #### I am a Web Developer
-![I am a Web Developer](https://scontent.frjh3-1.fna.fbcdn.net/v/t1.6435-9/193464207_910357382875461_8629543807227067850_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeGNr6PacuCps2AZE6KnWmGjgph3bm2OBEOCmHdubY4EQ4kGumk98Mug5zNx0jBIN1ZmaYAu_8ZYJso_bqHPt_qy&_nc_ohc=LPO6Ys2L3o0AX_amVQx&_nc_ht=scontent.frjh3-1.fna&oh=00_AfBuKA6rxr4_CMqq0mCMQ4dyBfSVgEKtF3CWZZcru7iVeA&oe=63FF2588)
+![I am a Web Developer](https://rionislam.github.io/Images/logo2.jpg)
 
 I am a full stack web developer. Use pure HTML, CSS and JS in the frontend. Sometimes use BOOTSTRAP and JQUERY libraries. Love to work with Node JS in the backend. But also expert in PHP.
 
