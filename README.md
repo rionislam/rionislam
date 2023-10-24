@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mazedul Islam Rion
 #### I am a Web Developer
-![I am a Web Developer](https://rionislam.github.io/Images/logo2.jpg)
+![I am a Web Developer](https://rionislam.cu.ma/images/logo2.jpg)
 
 I am a full stack web developer. Use pure HTML, CSS and JS in the frontend. Sometimes use BOOTSTRAP and JQUERY libraries. Love to work with Node JS in the backend. But also expert in PHP.
 
