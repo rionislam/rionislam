@@ -14,7 +14,7 @@ I'm a dedicated and skilled Web Developer with a flair for crafting immersive on
 * 🤝  I'm open to collaborating on any Full Stack Project
 * ⚡  I wanna study CSE
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -37,18 +37,22 @@ I'm a dedicated and skilled Web Developer with a flair for crafting immersive on
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-### Socials
+## Socials
 
-<p align="left"> 
-<a href="https://www.dribbble.com/rionislam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/rionislam.m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/rionislam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/rionislam.m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/rionislam-m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/16367531/rion-islam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-</p>
+* <a href="https://www.dribbble.com/rionislam" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="18" height="18" /></a> rionislam
 
-### Badges
+* <a href="https://www.facebook.com/rionislam.m" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="18" height="18" /></a> rionislam.m
+
+* <a href="https://www.github.com/rionislam" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="18" height="18" /></a> rionislam
+
+* <a href="http://www.instagram.com/rionislam.m" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="18" height="18" /></a> rionislam.m
+
+* <a href="https://www.linkedin.com/in/rionislam-m" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a> rionislam-m
+
+* <a href="https://www.stackoverflow.com/users/16367531/rion-islam" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="18" height="18" /></a> rion-islam
+
+
+## Badges
 
 <b>My GitHub Stats</b>
 
