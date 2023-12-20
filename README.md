@@ -12,7 +12,7 @@ I'm a dedicated and skilled Web Developer with a flair for crafting immersive on
 * 🚀  I'm currently working on [Magna Dokan](http://magnadokan.com)
 * 🧠  I'm learning React, Next.js
 * 🤝  I'm open to collaborating on any Full Stack Project
-* ⚡  I'm a problem solver and a quick learner
+* ⚡  I wanna study CSE
 
 ### Skills
 
