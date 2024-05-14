@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mazedul Islam Rion
-==========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mazedul Islam Rion
 
-Passionate Web Developer Ready to Elevate Your Digital Presence!
-----------------------------------------------------------------
+### Passionate Web Developer Ready to Elevate Your Digital Presence!
 
 I'm a dedicated and skilled Web Developer with a flair for crafting immersive online experiences. Armed with expertise in Bootstrap, Tailwind, JavaScript, PHP, and MySQL, I've brought numerous projects to life, each a testament to my commitment to excellence in web development.
 
