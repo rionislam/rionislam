@@ -6,11 +6,10 @@ I'm a dedicated and skilled Web Developer with a flair for crafting immersive on
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [rionislam.githu.io](http://rionislam.github.io)
-* ✉️  You can contact me at [rionislam6348@gmail.com](mailto:rionislam6348@gmail.com)
-* 🚀  I'm currently working on [Magna Dokan](http://magnadokan.com)
-* 🧠  I'm learning React.js and Next.js
-* 🤝  I'm open to collaborating on any Full Stack Project
-* ⚡  I wanna study CSE
+* ✉️  You can contact me at [rionislam6348@gmail.com](mailto:rionislam6348@gmail.com)<!-- * 🚀  Currently working on [Magna Dokan](http://magnadokan.com) -->
+* 🧠  Learning React.js and Next.js
+* 🤝  Open to collaborating on any Full Stack Project
+* ⚡  Studing CSE in AIUB
 
 ## Skills
 
