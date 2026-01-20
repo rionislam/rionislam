@@ -51,5 +51,5 @@ I'm a dedicated and skilled Web Developer with a flair for crafting immersive on
 
 ## Badges
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rionislam&theme=dark&hide_border=true" />
